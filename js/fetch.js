@@ -20,7 +20,7 @@ fetch('list').then(function(response) {
     while(i < items.length) {
         var item = items[i]
         item = item.trim() // 개행문자 제거
-        var tag = '<li><a href="#!' + item + '" onclick="fetchPage(\'' + toUpperStr(item) + '\')">' + item + '</a></li>'
+        var tag = '<li><a href="#!' + item + '" onclick="fetchPage(\'' + item + '\')">' + toUpperStr(item) + '</a></li>'
         tags = tags + tag;
         i = i + 1;
     }
