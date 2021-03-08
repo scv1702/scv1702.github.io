@@ -1,0 +1,25 @@
+<h2>Education</h2>
+<table>
+    <thead>
+        <tr>
+            <th>School</th>
+            <th>Major</th>
+            <th>Term</th>
+            <th>Graduate</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sung-Seo High School</td>
+            <td>Natural Sciences</td>
+            <td>2017.03 ~ 2020.2</td>
+            <td>O</td>
+        </tr>
+        <tr>
+            <td>Kyungpook National University</td>
+            <td>Computer Science Engineering</td>
+            <td>2020.03 ~ </td>
+            <td>X</td>
+        </tr>
+    </tbody>
+</table>

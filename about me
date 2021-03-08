@@ -1,0 +1,12 @@
+
+<h2>About me</h2>
+<img src="images/profile.jpeg" width="200" height="200" alt="profile">
+<p><b>Changyu Shin</b><br>
+    Enjoying Machine Learning, Deep Learning, Back-End.<br>
+    Studying Python, C, Pytorch.<br>
+    Interested in Web, Server.</p>
+<a href="https://www.facebook.com/scv1702" target="_blank"><img src="images/facebook.png" width="64" height="64" alt="facebook"></a>
+&nbsp;
+<a href="https://www.instagram.com/rbckstls/" target="_blank"><img src="images/instagram.png" width="64" height="64" alt="instagram"></a>
+&nbsp;
+<a href="https://github.com/scv1702" target="_blank"><img src="images/github.png" width="64" height="64" alt="github"></a>
